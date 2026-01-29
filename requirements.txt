@@ -30,7 +30,7 @@ optimum-quanto
 sentencepiece
 huggingface_hub
 peft
-gradio>=6.3.0
+gradio==6.3.0
 python-slugify
 opencv-python
 pytorch-wavelets
