@@ -1,8 +1,7 @@
 torchao==0.10.0
 safetensors
-# git+https://github.com/huggingface/diffusers@8600b4c10d67b0ce200f664204358747bd53c775
-git+https://github.com/huggingface/diffusers@main
-transformers>=4.57.3
+git+https://github.com/huggingface/diffusers@8600b4c10d67b0ce200f664204358747bd53c775
+transformers==4.57.3
 lycoris-lora>=1.8.3
 flatten_json
 pyyaml
@@ -40,3 +39,4 @@ setuptools
 scipy>=1.13.0
 av
 torchcodec
+pytz
